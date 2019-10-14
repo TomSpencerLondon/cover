@@ -4,7 +4,7 @@ Dear Codurance,
 
 I am writing this letter as a formal application for the role of [apprentice at codurance](https://codurance.com/careers/become_an_apprentice/). The values of pragmatism, professionalism and transparency that are valued by your company truly resonated with me. I have been following conferences like Brighton Ruby and any other craftsmanship programs I can put my hands on to constantly improve my coding abilities.
 
-My favourite technology stack is Ruby - that is what I write day-to-day -  but I would be very excited to learn other languages in particular Java and C#. As part of my role at [Homeflow](https://www.homeflow.co.uk/) I have worked with Javascript and React and used node and Backbone on the client side. I am also learning Java and [C#](https://github.com/TomSpencerLondon/Number-Guesser).
+My favourite technology stack is Ruby - that is what I write day-to-day -  but I would be very excited to learn other languages in particular Java and [C#](https://github.com/TomSpencerLondon/Number-Guesser). As part of my role at [Homeflow](https://www.homeflow.co.uk/) I have worked with Javascript, React and Backbone.
 
 In the last two years, working professionally, I have practiced the skills of Test Driven Development, short feedback loops and pet projects to learn and experiment with new frameworks, libraries and languages. For example, I have recently started to write a mini-rails gem to understand the internals of the web framework that I use on a daily basis.
 
